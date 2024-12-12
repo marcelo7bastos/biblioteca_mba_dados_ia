@@ -52,7 +52,7 @@ biblioteca_mba_dados_ia/
 ├─ requirements.txt                # Dependências do projeto
 ├─ README.md                       # Instruções do projeto
 ├─ .gitignore                      # Arquivos a serem ignorados pelo Git
-└─ app.py                          # Ponto de entrada da aplicação Streamlit
+└─ app.py                          # Ponto de entrada da aplicação git commit -m "Separate frontend and backend"Streamlit
 ```
 
 ## Funcionalidades
